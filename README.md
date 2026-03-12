@@ -122,3 +122,5 @@ docker run -p 8000:8000 crop-disease-api
 
 ## 📝 License
 This project is open-source and available under the MIT License.
+
+Developed by Varun S
