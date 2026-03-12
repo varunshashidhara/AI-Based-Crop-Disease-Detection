@@ -1,0 +1,23 @@
+# Environments
+backend/venv/
+backend/app/__pycache__/
+backend/app/scripts/__pycache__/
+__pycache__/
+
+# Models and Large Files
+backend/app/*.keras
+backend/app/*.h5
+backend/*.keras
+backend/*.h5
+backend/app/Data/
+backend/virtual diagram.png
+
+# Environment Variables
+.env
+
+# MacOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/

@@ -1,0 +1,42 @@
+{
+  "Tomato_Early_blight": {
+    "name": "Early Blight",
+    "crop": "Tomato",
+    "advice": "Remove affected leaves, use fungicide spray, ensure proper spacing."
+  },
+  "Tomato_Late_blight": {
+    "name": "Late Blight",
+    "crop": "Tomato",
+    "advice": "Apply fungicides, avoid overhead watering, remove infected plants."
+  },
+  "Tomato_Leaf_Mold": {
+    "name": "Leaf Mold",
+    "crop": "Tomato",
+    "advice": "Ensure good airflow, avoid wetting leaves, remove infected leaves."
+  },
+  "Tomato_healthy": {
+    "name": "Healthy",
+    "crop": "Tomato",
+    "advice": "Plant is healthy. Continue regular care."
+  },
+  "Apple___Apple_scab": {
+    "name": "Apple Scab",
+    "crop": "Apple",
+    "advice": "Remove affected leaves, apply fungicide."
+  },
+  "Apple___Black_rot": {
+    "name": "Black Rot",
+    "crop": "Apple",
+    "advice": "Prune diseased branches."
+  },
+  "Apple___Cedar_apple_rust": {
+    "name": "Cedar Apple Rust",
+    "crop": "Apple",
+    "advice": "Remove alternate hosts."
+  },
+  "Apple___healthy": {
+    "name": "Healthy",
+    "crop": "Apple",
+    "advice": "No action needed."
+  }
+}
